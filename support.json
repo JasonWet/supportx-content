@@ -9,21 +9,21 @@
         "ftnt": ""
       },
       "skyblockx": {
-        "spigot": ""
+        "help": "Help..."
       },
       "outpostx": {
-        "spigot": ""
+        "help": "Help..."
       },
       "obbybreakerx": {
-        "spigot": ""
+        "help": "Help..."
       },
       "leaderboardsx": {
-        "spigot": ""
+        "help": "Help..."
       },
       "genbucketsx": {
-        "spigot": ""
+        "help": "Help..."
       },
       "collectorsx": {
-        "config": "Config"
+        "help": "Help..."
       }
 }
